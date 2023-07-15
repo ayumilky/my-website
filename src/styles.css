@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.popup-submit {
+    display: none; 
+  }
+  
+.popup-submit.active {
+  display: block; 
+}
+
+.success {
+  display: block; 
+}
+
+.failed {
+  display: block; 
+}
+
+ .modal-content {
+    margin: 15% auto; 
+  }
+  
+  
+
+
+
