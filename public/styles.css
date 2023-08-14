@@ -1009,10 +1009,6 @@ video {
   background-color: rgb(250 250 250 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\/assets\/grid\.svg\)\] {
-  background-image: url(/assets/grid.svg);
-}
-
 .fill-\[\#000000\] {
   fill: #000000;
 }
@@ -1362,6 +1358,10 @@ video {
   margin: 15% auto;
 }
 
+.backgroud-grid {
+  background-image: url(/assets/grid.svg);
+}
+
 .hover\:-translate-y-72:hover {
   --tw-translate-y: -18rem;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
@@ -1635,8 +1635,3 @@ video {
     padding-right: 2rem;
   }
 }
-  
-  
-
-
-
