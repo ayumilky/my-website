@@ -2,29 +2,26 @@
 @tailwind components;
 @tailwind utilities;
 
-
-
 .popup-submit {
-    display: none; 
-  }
-  
+  display: none;
+}
+
 .popup-submit.active {
-  display: block; 
+  display: block;
 }
 
 .success {
-  display: block; 
+  display: block;
 }
 
 .failed {
-  display: block; 
+  display: block;
 }
 
- .modal-content {
-    margin: 15% auto; 
-  }
-  
-  
+.modal-content {
+  margin: 15% auto;
+}
 
-
-
+.backgroud-grid {
+  background-image: url(/assets/grid.svg);
+}
