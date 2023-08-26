@@ -2058,8 +2058,8 @@ video {
   background-color: rgb(250 250 250 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\/assets\/grid\.svg\)\] {
-  background-image: url(/assets/grid.svg);
+.bg-grid-pattern {
+  background-image: url('/assets/grid.svg');
 }
 
 .decoration-slice {
@@ -2940,10 +2940,6 @@ video {
 
 .modal-content {
   margin: 15% auto;
-}
-
-.backgroud-grid {
-  background-image: url(/assets/grid.svg);
 }
 
 @media (min-width: 640px) {

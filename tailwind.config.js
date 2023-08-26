@@ -35,6 +35,9 @@ module.exports = {
           900: "#53372a",
         },
       },
+      backgroundImage: {
+        "grid-pattern": "url('/assets/grid.svg')",
+      },
     },
   },
   plugins: [],
