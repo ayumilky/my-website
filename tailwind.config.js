@@ -36,7 +36,7 @@ module.exports = {
         },
       },
       backgroundImage: {
-        "grid-pattern": "url('/assets/grid.svg')",
+        "grid-pattern": "url('../assets/grid.svg')",
       },
     },
   },

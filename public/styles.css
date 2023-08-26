@@ -2059,7 +2059,7 @@ video {
 }
 
 .bg-grid-pattern {
-  background-image: url('/assets/grid.svg');
+  background-image: url('../assets/grid.svg');
 }
 
 .decoration-slice {
